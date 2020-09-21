@@ -1,5 +1,5 @@
 # tree-data-structure
-Implementing Tree Traversal, Breadth First Search and Depth First Search in JavaScript
+The code implements Tree Traversal technique such as Breadth First Search and Depth First Search in JavaScript. The Automated testing is implemented using `Jest` Testing library with pre defined use cases.
 
 ### Available Script
 
