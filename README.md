@@ -3,6 +3,6 @@ Implementing Tree Traversal, Breadth First Search and Depth First Search in Java
 
 ### Available Script
 
-In the project directory, you can run `npm install` to installs jest testing library as dependancies.
+In the project directory, you can run `npm install` to install jest testing library as dependancies.
 
 Run `npm run test` command to run the automated test cases.
